@@ -1,0 +1,58 @@
+﻿  main.c
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(64,25): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(64,31): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(66,34): warning C4047: 'function': 'int **' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(66,22): warning C4024: 'count_faces': different types for formal and actual parameter 2
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(67,34): warning C4047: 'function': 'int **' differs in levels of indirection from 'int *(*)[4]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(67,22): warning C4024: 'count_suits': different types for formal and actual parameter 2
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(68,34): warning C4047: 'function': 'int **' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(68,22): warning C4024: 'count_faces': different types for formal and actual parameter 2
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(69,34): warning C4047: 'function': 'int **' differs in levels of indirection from 'int *(*)[4]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(69,22): warning C4024: 'count_suits': different types for formal and actual parameter 2
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(83,27): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(83,33): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(99,26): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(99,32): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(114,29): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(114,35): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(119,27): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(119,33): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(130,34): warning C4047: 'function': 'int **' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(130,22): warning C4024: 'count_faces': different types for formal and actual parameter 2
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(131,34): warning C4047: 'function': 'int **' differs in levels of indirection from 'int *(*)[4]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(131,22): warning C4024: 'count_suits': different types for formal and actual parameter 2
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(132,34): warning C4047: 'function': 'int **' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(132,22): warning C4024: 'count_faces': different types for formal and actual parameter 2
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(133,34): warning C4047: 'function': 'int **' differs in levels of indirection from 'int *(*)[4]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(133,22): warning C4024: 'count_suits': different types for formal and actual parameter 2
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(134,41): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(134,47): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(134,60): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(134,49): warning C4024: 'check_hand': different types for formal and actual parameter 4
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(134,73): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *[4]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(134,62): warning C4024: 'check_hand': different types for formal and actual parameter 5
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(135,41): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(135,47): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(135,60): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(135,49): warning C4024: 'check_hand': different types for formal and actual parameter 4
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(135,73): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *[4]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(135,62): warning C4024: 'check_hand': different types for formal and actual parameter 5
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(144,26): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(144,32): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(146,26): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(146,32): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(151,26): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(151,32): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(153,26): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(153,32): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(158,26): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(158,32): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(160,26): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\main.c(160,32): warning C4090: 'function': different 'const' qualifiers
+  pa7.c
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\pa7.c(104,47): warning C4028: formal parameter 2 different from declaration
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\pa7.c(104,68): warning C4028: formal parameter 3 different from declaration
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\pa7.c(134,29): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\PA7\pa7.c(151,29): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+  Generating Code...
+  PA7.vcxproj -> C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA7\Debug\PA7.exe
